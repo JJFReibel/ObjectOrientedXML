@@ -26,6 +26,7 @@ SOFTWARE.
 This is the class diagram.
 -->
 
+<!--
 <car>
 	<attribute1>
 		<name>wheels</name>
@@ -40,6 +41,8 @@ This is the class diagram.
 		<type>integer</type>
 		</attribute3>
 </car>
+-->
+
 <!--
 This is the usable class.
 -->
